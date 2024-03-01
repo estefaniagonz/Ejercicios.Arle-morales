@@ -199,5 +199,3 @@ function actualizarCantidad(nombre, nuevaCantidad) {
     console.log("Producto no encontrado.");
   }
 }
-
-console.log (inventario)
